@@ -1,0 +1,74 @@
+[
+	{
+		"Name": "NewRow",
+		"ItemName": "Letter",
+		"ItemDescription": "Under the wardobe",
+		"isObtained": true,
+		"itemOrder": 0,
+		"itemFullImage": "/Script/Engine.Texture2D'/Game/Cursor/T_Arrow.T_Arrow'",
+		"itemIcon": "/Script/Engine.Texture2D'/Game/Cursor/T_Arrow.T_Arrow'"
+	},
+	{
+		"Name": "NewRow_0",
+		"ItemName": "Skinning Knife",
+		"ItemDescription": "In the log chunk",
+		"isObtained": true,
+		"itemOrder": 0,
+		"itemFullImage": "/Script/Engine.Texture2D'/Game/StarterContent/Textures/T_Brick_Clay_Beveled_D.T_Brick_Clay_Beveled_D'",
+		"itemIcon": "/Script/Engine.Texture2D'/Game/StarterContent/Textures/T_Brick_Clay_Beveled_D.T_Brick_Clay_Beveled_D'"
+	},
+	{
+		"Name": "NewRow_1",
+		"ItemName": "Porcupine",
+		"ItemDescription": "In the sleeve",
+		"isObtained": true,
+		"itemOrder": 0,
+		"itemFullImage": "/Script/Engine.Texture2D'/Game/StarterContent/Textures/T_Brick_Cut_Stone_D.T_Brick_Cut_Stone_D'",
+		"itemIcon": "/Script/Engine.Texture2D'/Game/StarterContent/Textures/T_Brick_Cut_Stone_D.T_Brick_Cut_Stone_D'"
+	},
+	{
+		"Name": "NewRow_2",
+		"ItemName": "Failure Code",
+		"ItemDescription": "In the CEO's hatch",
+		"isObtained": true,
+		"itemOrder": 0,
+		"itemFullImage": "/Script/Engine.Texture2D'/Game/StarterContent/Textures/T_Door_M.T_Door_M'",
+		"itemIcon": "/Script/Engine.Texture2D'/Game/StarterContent/Textures/T_Door_M.T_Door_M'"
+	},
+	{
+		"Name": "NewRow_3",
+		"ItemName": "Whacking Stick",
+		"ItemDescription": "In the larder",
+		"isObtained": true,
+		"itemOrder": 0,
+		"itemFullImage": "/Script/Engine.Texture2D'/Game/StarterContent/Textures/T_Tech_Dot_N.T_Tech_Dot_N'",
+		"itemIcon": "/Script/Engine.Texture2D'/Game/StarterContent/Textures/T_Tech_Dot_N.T_Tech_Dot_N'"
+	},
+	{
+		"Name": "NewRow_4",
+		"ItemName": "",
+		"ItemDescription": "",
+		"isObtained": false,
+		"itemOrder": 0,
+		"itemFullImage": "None",
+		"itemIcon": "None"
+	},
+	{
+		"Name": "NewRow_5",
+		"ItemName": "",
+		"ItemDescription": "",
+		"isObtained": false,
+		"itemOrder": 0,
+		"itemFullImage": "None",
+		"itemIcon": "None"
+	},
+	{
+		"Name": "NewRow_6",
+		"ItemName": "",
+		"ItemDescription": "",
+		"isObtained": false,
+		"itemOrder": 0,
+		"itemFullImage": "None",
+		"itemIcon": "None"
+	}
+]
